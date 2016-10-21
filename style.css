@@ -1,0 +1,32 @@
+#formula{
+	width:50%;
+	margin:auto;
+	margin-top: 10%;
+}
+legend{
+	text-align: center;
+	font-style:italic;
+}
+label{
+	font-size:18px;
+}
+button{
+	
+	width:120px;
+}
+input:valid{
+	box-shadow: 0 0 2px 1px green;
+}
+input:invalid{
+	box-shadow: 0 0 2px 1px red;
+}
+.container{
+	background-color: #100;
+
+}
+
+h1{
+	text-align: center;
+	color:white;
+
+}

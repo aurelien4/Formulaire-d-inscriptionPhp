@@ -1,0 +1,10 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 4.6.4
+ */
+
+// Database 'simplon'
+
+// simplon.formulaire
+
+[{"ID":"9","email":"akimitchi@hotmail.fr","password":"09f025a1316cfc6ca76f9dc313627f4d","condition_accepte":"1","date_inscription":"2016-10-20 15:58:59"}, {"ID":"8","email":"TOTO@gmail.com","password":"f71dbe52628a3f83a77ab494817525c6","condition_accepte":"","date_inscription":"2016-10-19 17:35:55"}, {"ID":"7","email":"aurelmoreau@outlook.fr","password":"9ee75f4ece29c969def687a9c0e1caf7","condition_accepte":"1","date_inscription":"2016-10-19 11:40:33"}]
